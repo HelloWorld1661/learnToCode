@@ -2,6 +2,10 @@
 
 > 计算机编程必须掌握的相关知识思维导图。
 
+**思维导图笔记本 ：** <https://helloworld1661.github.io/learnToCode>
+
+**仓库位置：** <https://github.com/HelloWorld1661/learnToCode>
+
 ## 编程语言
 
 ![计算机语言](./images/coding/00编程.png )
