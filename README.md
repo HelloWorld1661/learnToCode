@@ -46,7 +46,19 @@
 
 ## 技术栈
 
-![](./images/coding/)
+![技术栈](./images/coding/02技术栈00.png)
+
+### LAMP
+
+![LAMP](./images/coding/02技术栈01.png)
+
+### MEAN
+
+![MEAN](./images/coding/02技术栈02.png)
+
+### 如何选择一个技术栈
+
+![如何选择一个技术栈](./images/coding/02技术栈03.png)
 
 ## 设计模式
 
