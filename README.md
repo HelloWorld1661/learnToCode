@@ -62,4 +62,16 @@
 
 ## 设计模式
 
-![](./images/coding/)
+![设计模式](./images/coding/03设计模式00.png)
+
+### MVC
+
+![MVC](./images/coding/03设计模式01.png)
+
+### MVP
+
+![MVP](./images/coding/03设计模式02.png)
+
+### MVVP
+
+![MVVP](./images/coding/03设计模式03.png)
