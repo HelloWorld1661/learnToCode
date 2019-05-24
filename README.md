@@ -72,6 +72,6 @@
 
 ![MVP](./images/coding/03设计模式02.png)
 
-### MVVP
+### MVVM
 
 ![MVVP](./images/coding/03设计模式03.png)
