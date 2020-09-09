@@ -36,6 +36,16 @@ app.all('/json-server', (request, response) => {
   response.send(str);
 });
 
+app.get('/ie', (request, response) => {
+  // 设置响应头 设置允许跨域
+  response.setHeader('Access-Control-Allow-Origin', '*');
+  // 响应头
+  response.setHeader('Access-Control-Allow-Headers', '*');
+
+  //设置响应
+  response.send('ie 缓存问题');
+});
+
 // 4. 监听端口，启动服务
 app.listen(8080,()=>{
   console.log("服务已启动， 8080端口监听中...");
